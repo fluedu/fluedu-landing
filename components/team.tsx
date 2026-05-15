@@ -48,6 +48,13 @@ const team: TeamMember[] = [
     github: "https://github.com/NaikerGomez",
     linkedin: "https://www.linkedin.com/in/naiker-gomez-caraballo-a97449293/",
   },
+  {
+    name: "Daniel",
+    role: "Frontend",
+    image: "/images/team/naiker.jpg",
+    github: "https://github.com/Kasuda25",
+    linkedin: "/images/team/daniel.jpeg",
+  },
 ]
 
 const containerVariants = {
