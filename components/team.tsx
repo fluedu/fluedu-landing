@@ -51,7 +51,7 @@ const team: TeamMember[] = [
   {
     name: "Daniel",
     role: "Frontend",
-    image: "/images/team/naiker.jpg",
+    image: "/images/team/daniel.jpeg",
     github: "https://github.com/Kasuda25",
     linkedin: "/images/team/daniel.jpeg",
   },
